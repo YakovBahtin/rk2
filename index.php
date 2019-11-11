@@ -20,7 +20,7 @@
 
 <form method="POST">
 <input type="number" name="x1" value="Введи число">
-<input type="number" name="x2" value-"ВВеди другое число">
+<input type="number" name="x2" value="ВВеди другое число">
 <select name="tip">
 <option name="sum">Найти сумму чисел</option>
 <option name="raz">Найти разность чисел</option>
