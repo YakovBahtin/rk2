@@ -19,8 +19,8 @@
 <h2>Task 2</h2>
 
 <form method="POST">
-<input type="number" name="x1">Введи число </input>
-<input type="number" name="x2">Введи второе число </input>
+<input type="number" name="x1" value="Введи число">
+<input type="number" name="x2" value-"ВВеди другое число">
 <select name="tip">
 <option name="sum">Найти сумму чисел</option>
 <option name="raz">Найти разность чисел</option>
