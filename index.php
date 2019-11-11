@@ -9,7 +9,7 @@
 
 
 <h2>Task 1</h2>
-<?php<table>WHILE($q=0;$q++<101) {echo "<tr>"; WHILE($w=0;$w++<101) {echo "<td>", $q ,-, $w, "</td>"}; echo"</tr>"};</table>
+<?php echo '<table>'; WHILE($q=0;$q++<101) {echo "<tr>"; WHILE($w=0;$w++<101) {echo "<td>", $q ,-, $w, "</td>"}; echo"</tr>"};echo '</table>';
 ?>
 
 
