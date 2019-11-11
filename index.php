@@ -29,10 +29,10 @@
 </select>
 </form>
 <?php
-if ($_POST[tip]==sum) {echo $_POST[x1]+$_POST[x2]};
-if ($_POST[tip]==raz) {echo $_POST[x1]*$_POST[x2]};
-if ($_POST[tip]==mul) {echo $_POST[x1]-$_POST[x2]};
-if ($_POST[tip]==div) {echo $_POST[x1]/$_POST[x2]};
+if ($_POST[tip]==sum) {echo $_POST[x1]+$_POST[x2];};
+if ($_POST[tip]==raz) {echo $_POST[x1]*$_POST[x2];};
+if ($_POST[tip]==mul) {echo $_POST[x1]-$_POST[x2];};
+if ($_POST[tip]==div) {echo $_POST[x1]/$_POST[x2];};
 ?>
 </body>
 </html>
